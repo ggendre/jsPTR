@@ -23,6 +23,8 @@ This fonction also receive a *release* callback function as first parammeter. Th
 			release();
 	});
 	
+this script use **Zepto** or **jQuery** to work.
+
 
 Customise
 =========
