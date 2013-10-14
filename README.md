@@ -1,12 +1,12 @@
 Story
 =====
 
-This script is a small Pull-To-Refresh script I made to create a pullToRefresh on a blackberry webview.
+This script is a small Pull-To-Refresh script I made to create a pullToRefresh on a native Tizen webview form.
 
 It worked but the webview received the onScroll events not often enought to be acceptable so we let it down. 
 Sometimes you just can't remove totally something you made.
 
-*It can still be used for any website with touch abilities*, or some recent ios devices I guess.
+**It can still be used for any website with touch abilities**, or some recent ios devices I guess.
 
 
 Usage
